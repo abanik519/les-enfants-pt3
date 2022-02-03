@@ -14,18 +14,18 @@ import image11 from "./images/11.jpg";
 import avatar from "./images/Avatar.png";
 import pause from "./images/pause.png";
 import play from "./images/play.png";
-import audioClip from "./sounds/Media1.mp3";
-import introClip from "./sounds/Media2.mp3";
-import a1 from "./sounds/Media1.m4a";
-import a2 from "./sounds/Media2.m4a";
-import a3 from "./sounds/Media3.m4a";
-import a4 from "./sounds/Media4.m4a";
-import a5 from "./sounds/Media5.m4a";
-import a6 from "./sounds/Media6.m4a";
-import a7 from "./sounds/Media7.m4a";
-import a8 from "./sounds/Media8.m4a";
-import a9 from "./sounds/Media9.m4a";
-import a10 from "./sounds/Media10.m4a";
+import audioClip from "./sounds/Media11.mp3";
+import introClip from "./sounds/Media12.mp3";
+import a1 from "./sounds/Media1.mp3";
+import a2 from "./sounds/Media2.mp3";
+import a3 from "./sounds/Media3.mp3";
+import a4 from "./sounds/Media4.mp3";
+import a5 from "./sounds/Media5.mp3";
+import a6 from "./sounds/Media6.mp3";
+import a7 from "./sounds/Media7.mp3";
+import a8 from "./sounds/Media8.mp3";
+import a9 from "./sounds/Media9.mp3";
+import a10 from "./sounds/Media10.mp3";
 import s1 from "./images/s1.jpg";
 import s2 from "./images/s2.jpg";
 import s3 from "./images/s3.jpg";
@@ -211,7 +211,7 @@ export class App extends Component {
                             <source src={introClip} type="audio/mpeg" />
                         </audio>
                         <div id="intro" className="speech sb1">
-                            Aujourd’hui, tu vas lire l’histoire « Les enfants de cire. » Sélectionnez la flèche pour passer à la page suivante.
+                        Aujourd’hui, tu vas lire l’histoire « Les enfants de cire. » Appuie sur la flèche pour passer à la page suivante. Today you will read the story “Les enfants de cire”. Click on the arrow to move to the next page.
                         </div>
                     </div>
 
@@ -387,10 +387,7 @@ export class App extends Component {
                 {/* Question Slide Intro */}
                 <div className="slide fade">
                     <div className="question-prompt-container">
-                        <p>Tu as lu l’histoire « Les enfants de cire. » 
-                            Sélectionnez le bouton vert « RECORD » et dites-nous l’histoire du
-                            début à la fin. Dites-nous tous les événements et détails dont vous
-                            vous souvenez.</p>
+                        <p>Tu as lu l’histoire « Les enfants de cire ». Appuie sur le bouton vert « RECORD » et dis-moi l’histoire du début à la fin. Dis-moi tous les événements et détails dont tu te souviens. You have read the story "Les enfants de cire." Press the green "RECORD" button and tell us the story from the beginning to the end. Include all the events and details that you can remember.</p>
                     </div>
                     <div className="audio-controls-container">
                         <audio id="story-retel" onPlay={this.updateTime}>

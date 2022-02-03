@@ -266,7 +266,7 @@ body{
   }
 
   .speech{
-      width: 7em;
+      width: 9em;
       background: white;
       padding: 1em;
       text-align: start;
@@ -514,11 +514,11 @@ body{
   }
 
   .speech{
-      width: 8em;
+      width: 9em;
       padding: 1em;
       font-weight: 700;
       font-size: 1em;
-      transform: translate(22em, -1.5em);
+      transform: translate(22em, 0em);
   }
 
   .speech2{
@@ -612,11 +612,11 @@ body{
   }
 
   .speech{
-      width: 8em;
+      width: 10em;
       padding: 1em;
       font-weight: 700;
       font-size: 1.4em;
-      transform: translate(23em, -1em);
+      transform: translate(23em, 1em);
   }
 
   .speech2{
@@ -718,11 +718,11 @@ body{
   }
 
   .speech{
-      width: 8em;
+      width: 11em;
       padding: 1em;
       font-weight: 700;
       font-size: 1.6em;
-      transform: translate(19.5em, -.5em);
+      transform: translate(19.5em, 0em);
   }
 
   .speech2{
