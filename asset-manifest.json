@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/les-enfants-pt3/static/css/main.21fc9497.css",
-    "main.js": "/les-enfants-pt3/static/js/main.9408b5db.js",
+    "main.css": "/les-enfants-pt3/static/css/main.a731eae4.css",
+    "main.js": "/les-enfants-pt3/static/js/main.e6a73600.js",
     "static/js/787.01db916d.chunk.js": "/les-enfants-pt3/static/js/787.01db916d.chunk.js",
     "static/media/end.mp3": "/les-enfants-pt3/static/media/end.54fe40dd29edad37b55e.mp3",
     "static/media/intro.mp3": "/les-enfants-pt3/static/media/intro.d20119e5897d7f32ed92.mp3",
@@ -39,12 +39,12 @@
     "static/media/s5.jpg": "/les-enfants-pt3/static/media/s5.125d91707f27d4b5804d.jpg",
     "static/media/08.jpg": "/les-enfants-pt3/static/media/08.e3d25ec68351dcddc621.jpg",
     "index.html": "/les-enfants-pt3/index.html",
-    "main.21fc9497.css.map": "/les-enfants-pt3/static/css/main.21fc9497.css.map",
-    "main.9408b5db.js.map": "/les-enfants-pt3/static/js/main.9408b5db.js.map",
+    "main.a731eae4.css.map": "/les-enfants-pt3/static/css/main.a731eae4.css.map",
+    "main.e6a73600.js.map": "/les-enfants-pt3/static/js/main.e6a73600.js.map",
     "787.01db916d.chunk.js.map": "/les-enfants-pt3/static/js/787.01db916d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21fc9497.css",
-    "static/js/main.9408b5db.js"
+    "static/css/main.a731eae4.css",
+    "static/js/main.e6a73600.js"
   ]
 }
